@@ -6,7 +6,8 @@ The sorting algorithms used were:
 * Round robin (RR)
 * Shortest remaining time first (SRTF)
 
-Each algorithm was ran using three different seed values, which increased each time in order to get a variety of results for comparison
+Each algorithm was ran using three different seed values, which increased each time in order to get a variety of results for comparison<br />
+contributed code by myself is within the 'schedulers.py' file <br />
 
 ## results from testing
 #### Seed: 1797410758
