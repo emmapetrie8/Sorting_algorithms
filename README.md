@@ -9,8 +9,8 @@ The sorting algorithms used were:
 Each algorithm was ran using three different seed values, which increased each time in order to get a variety of results for comparison
 
 ## results from testing
-### Seed: 1797410758
-**Average turnaround time**
-From the outputs, it is seen that the Shortest remaining time first (SRTF) has the lowest average turnaround time and first come first served (SCFS) has the highest.
-**Average waiting time**
-From the outputs, it is seen that the Shortest remaining time first (SRTF) has the lowest average wait time and first come first served (SCFS) has the highest.
+#### Seed: 1797410758
+**Average turnaround time** <br />
+From the outputs, it is seen that the Shortest remaining time first (SRTF) has the lowest average turnaround time and first come first served (SCFS) has the highest. <br />
+**Average waiting time** <br />
+From the outputs, it is seen that the Shortest remaining time first (SRTF) has the lowest average wait time and first come first served (SCFS) has the highest. <br />
