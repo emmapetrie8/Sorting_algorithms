@@ -15,4 +15,5 @@ From the outputs, it is seen that the Shortest remaining time first (SRTF) has t
 **Average waiting time** <br />
 From the outputs, it is seen that the Shortest remaining time first (SRTF) has the lowest average wait time and first come first served (SCFS) has the highest. <br />
 The shortest remaining time first (SRTF) scheduler was the most efficient overall from this seed by numerous seconds, it is really effective as it is constantly checking the new arrivals for their remaining time and running the one with the shortest remaining time.
-The least effective here was the First come first served (FCFS), it is typically slower as it fully executes in arrival time, process #2 increased the average waiting time and turnaround time with its 8.5 second execution time.
+The least effective here was the First come first served (FCFS), it is typically slower as it fully executes in arrival time, process #2 increased the average waiting time and turnaround time with its 8.5 second execution time. <br />
+<img width="780" alt="Screenshot 2022-05-29 at 22 48 56" src="https://user-images.githubusercontent.com/97540217/170892598-da10d85b-3c01-4735-8410-b8994f897cfe.png">  <br />
